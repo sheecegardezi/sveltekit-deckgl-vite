@@ -1,3 +1,5 @@
-pnpm update
-pnpm i
-pnpm dev
+# create-svelte
+
+    pnpm i
+    pnpm prepare    
+    pnpm dev
