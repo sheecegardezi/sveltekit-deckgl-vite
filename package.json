@@ -1,0 +1,26 @@
+{
+	"name": "sveltekit-spa",
+	"version": "0.0.1",
+	"private": true,
+	"scripts": {
+		"prepare": "svelte-kit sync",
+		"dev": "vite dev",
+		"build": "vite build",
+		"preview": "vite preview"
+	},
+	"devDependencies": {
+		"@sveltejs/adapter-auto": "^2.1.0",
+		"@sveltejs/adapter-static": "^1.0.6",
+		"@sveltejs/kit": "^1.22.3",
+		"prettier": "^3.0.0",
+		"prettier-plugin-svelte": "^3.0.0",
+		"svelte": "^4.1.1",
+		"svelte-check": "^3.4.6",
+		"vite": "^4.4.6"
+	},
+	"dependencies": {
+		"@deck.gl/core": "^8.9.22",
+		"@deck.gl/layers": "^8.9.22"
+	},
+	"type": "module"
+}

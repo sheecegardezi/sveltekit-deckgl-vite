@@ -1,1 +1,3 @@
-# sveltekit-deckgl-vite
+pnpm update
+pnpm i
+pnpm dev
